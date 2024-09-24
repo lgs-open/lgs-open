@@ -12,9 +12,9 @@ Entre uma e outra xícara de café, desenvolvo projetos que envolvem  Engenharia
   
 ### Contatos:
   
-<a href="lgs.open@gmail.com">
+<a href="mailto:lgs.open@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href = "www.linkedin.com/in/lgsopen">
+<a href = "https://www.linkedin.com/in/lgsopen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
